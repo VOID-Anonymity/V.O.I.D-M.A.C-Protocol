@@ -6,6 +6,7 @@
   <img src="https://github.com/user-attachments/assets/98e89c8d-7e69-4092-96b6-9b094c269844" width="850">
 </p>
 
+> 📥 **[Скачать ядро протокола MAC](https://cdn.jsdelivr.net/gh/VOID-Anonymity/V.O.I.D-M.A.C-Protocol@main/MAC.py)**
 
 **M.A.C** — это экспериментальный протокол многослойного шифрования, созданный в недрах «Эфира» для обеспечения абсолютной тишины в цифровом пространстве.
 
@@ -31,8 +32,6 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 ### 2. Скачивание
-
-> 📥 **[Скачать ядро протокола MAC](https://cdn.jsdelivr.net/gh/VOID-Anonymity/V.O.I.D-M.A.C-Protocol@main/MAC.py)**
 
 ```
 pip install pycryptodome
