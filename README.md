@@ -35,3 +35,7 @@ source venv/bin/activate
 
 ```
 pip install pycryptodome
+
+```
+## 📜 Лицензия
+Данный манускрипт защищен [Манифестом Свободной Цитадели](LICENSE).
