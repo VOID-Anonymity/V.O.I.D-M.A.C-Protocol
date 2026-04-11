@@ -27,11 +27,11 @@
 ## Запустите среду venv:
 
 ```
-python3 -m venv venv
+python3 -m venv venv (Если не работает скачайте python3)
 
 source venv/bin/activate
 ```
-### 2. Скачивание
+### 2. Скачивание необходимых библиотек
 
 ```
 pip install pycryptodome
