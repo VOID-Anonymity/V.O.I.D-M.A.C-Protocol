@@ -23,5 +23,6 @@
 
 ### 1. Подготовка кузницы
 Запустите среду venv:
-```python3 -m venv venv
+```
+python3 -m venv venv
 source venv/bin/activate
