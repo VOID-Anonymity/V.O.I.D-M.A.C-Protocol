@@ -32,7 +32,7 @@ source venv/bin/activate
 ```
 ### 2. Скачивание
 
-> 📥 **[Скачать ядро протокола MAC](https://github.com/30e909c2-5796-4e4e-a51c-f0d920e4ab69)**
+> 📥 **[Скачать ядро протокола MAC](https://cdn.jsdelivr.net/gh/VOID-Anonymity/V.O.I.D-M.A.C-Protocol@main/MAC.py)**
 
 ```
 pip install pycryptodome
