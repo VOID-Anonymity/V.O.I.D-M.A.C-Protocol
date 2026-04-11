@@ -22,6 +22,6 @@
 ## 🚀 Запуск в Эфир
 
 ### 1. Подготовка кузницы
-Убедитесь, что у вас установлен Python 3.10 и необходимые компоненты:
-```bash
-pip install pycryptodome
+Запустите среду venv:
+```python3 -m venv venv
+source venv/bin/activate
