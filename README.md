@@ -29,7 +29,6 @@ python3 -m venv venv
 source venv/bin/activate
 
 ### 2. Скачивание сил
-
 [ ![Download](https://img.shields.io/badge/Download-MAC.py-green?style=for-the-badge&logo=python) ](https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-M.A.C-Protocol/refs/heads/main/MAC.py)
 
 ```
