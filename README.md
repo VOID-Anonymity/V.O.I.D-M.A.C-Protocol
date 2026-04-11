@@ -25,12 +25,14 @@
 
 ## Запустите среду venv:
 
-*python3 -m venv venv*
+```
+python3 -m venv venv
 
-*source venv/bin/activate*
-
+source venv/bin/activate
+```
 ### 2. Скачивание
 
-> 📥 **[Скачать ядро протокола MAC](https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-M.A.C-Protocol/refs/heads/main/MAC.py)**
+> 📥 **[Скачать ядро протокола MAC](blob:https://github.com/30e909c2-5796-4e4e-a51c-f0d920e4ab69)**
 
-*pip install pycryptodome*
+```
+pip install pycryptodome
