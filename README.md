@@ -27,15 +27,21 @@
 ## Запустите среду venv:
 
 ```
-python3 -m venv venv (Если не работает скачайте python3)
+python3 -m venv venv (Если не работает скачайте python3 или python)
 
 source venv/bin/activate
 ```
+
 ### 2. Скачивание необходимых библиотек
 
 ```
 pip install pycryptodome
-
 ```
+
+### 3. Запуск
+```
+python3(или же python) MAC.py
+```
+
 ## 📜 Лицензия
 Данный манускрипт защищен [Манифестом Свободной Цитадели](Лицензия).
