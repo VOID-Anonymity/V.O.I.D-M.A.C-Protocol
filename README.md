@@ -1,4 +1,4 @@
-# 🌑 M.A.C Protocol (Morse-AES-ChaCha)
+# 🌑 M.A.C Protocol (Morse-AES-ChaCha) by V.O.I.D™
 
 > "Null by design. Private by default. Смерть частотному анализу"
 
